@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+
+.p1 {
+  color: red;
+}
+
+.judul {
+  color: blue;
+}
+
+#judulUtama {
+  color: green;
+}
+
+#ke1 {
+  color: red;
+}
+#ke2 {
+  color: yellow;
+}
+#ke3 {
+  color: green;
+}
+#ke4 {
+  color: purple;
+}
+#ke5 {
+  color: skyblue;
+}
+#ke6 {
+  color: orange;
+}
+#h41 {
+  color: grey;
+}
+
+#p2 {
+  color: yellow;
+}
+#p3 {
+  color: white;
+}
